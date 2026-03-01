@@ -9,8 +9,8 @@ Functionalities :
 # Home Page : 
 ![Home Page](HomePage.png)
 # Add Page : 
-![Add Page](AddMovie.png.png)
+![Add Page](AddMovie.png)
 # Show Page
-![Edit Page](ShowPage.pngPage.png.png)
+![Edit Page](ShowPage.png)
 # Edit Page
 ![Home Page](EditPage.png)
